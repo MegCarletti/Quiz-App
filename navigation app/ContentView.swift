@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         NavigationStack{
             VStack {
-                Text("Personality Quiz")
+                Text("Personality Quiz!")
                     .font(.largeTitle)
                     .fontWeight(.bold)
                 .foregroundColor(Color(.black))}
